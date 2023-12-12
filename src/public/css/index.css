@@ -101,7 +101,7 @@
 }
 
 .update-form__button {
-    width: 50%;
+    width: 50px;
 }
 
 .update-form__button-submit {
@@ -109,7 +109,8 @@
     width: 100%;
     border: none;
     border-radius: 3px;
-    background: #fff;
+    background: #0000ff;
+    color: #fff;
     cursor: pointer;
 }
 
